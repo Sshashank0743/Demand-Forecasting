@@ -1,5 +1,7 @@
 Problem Statement:
 One of the largest retail chains in the world wants to use their vast data source to build an efficient forecasting model to predict the sales for each SKU in its portfolio at its 76 different stores using historical sales data for the past 3 years on a week-on-week basis. Sales and promotional information is also available for each week - product and store wise.
+
+
 Data Variables Description:
 record_ID: Unique ID for each week store sku combination
 week: Starting Date of the week
